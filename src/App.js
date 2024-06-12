@@ -21,6 +21,8 @@ function App() {
             TOGGLE THE BOOLEAN STATE
           </button>
         </div>
+
+
         <div id="cyclic-state">
           <h5>Cycling State Value: {cyclicState}</h5>
           <button
@@ -31,6 +33,9 @@ function App() {
             CYCLE THE CYCLIC STATE
           </button>
         </div>
+
+
+        
       </header>
     </div>
   );
